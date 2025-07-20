@@ -133,8 +133,8 @@
     ],
     "forbiddenChecksums": [
     {
-        "hash": "4a4f65427e016b3c5ae0d2517a69db5f1cdc7a43d2c0a7957e8da5d6f378f063",
-        "description": "ogg.dll test",
+        "hash": "3ab7fa493da464c55128691d72bf90ba869a1c602baba3a303815b33ce25bcb8",
+        "description": "test",
         "action": "NONE"
     }
 
