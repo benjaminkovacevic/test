@@ -1,6 +1,6 @@
 {
     "gtaRunning": true,
-    "sampRunning": true,
+    "sampRunning": false,
     "monitorProcessesConstantly": true,
     "validationFiles": [
         {
