@@ -132,11 +132,31 @@
         }
     ],
     "forbiddenChecksums": [
-    {
-        "hash": "3ab7fa493da464c55128691d72bf90ba869a1c602baba3a303815b33ce25bcb8",
-        "description": "test",
-        "action": "NONE"
-    }
+        {
+            "hash": "952504f7008da29bf4d63445b6b5214f551a8c596d6d8386246b40b940123e5c",
+            "description": "SilentAimbot.asi",
+            "action": "PREVENT_CONNECT"
+        },
+        {
+            "hash": "0b06ce8a7b5be7e24a60c73f437d0476a99ea30ebc220890516b6ba3978c2b7a",
+            "description": "SAIM.asi",
+            "action": "PREVENT_CONNECT"
+        },
+        {
+            "hash": "6465b2438dc22c3d77194cf11dcbf3c9560e4bd67d8d5fc8dc93500fe00bc481",
+            "description": "ProAim.cs",
+            "action": "PREVENT_CONNECT"
+        },
+        {
+            "hash": "a51f9c33891ac132169b2b53f80284869bef22f40123954b72558b45b5d4722f",
+            "description": "HeadShotAimBot.cs",
+            "action": "PREVENT_CONNECT"
+        },
+        {
+            "hash": "31ce3d433c7547d27c30d05bb2bf0d14e5a55261e928333cf44a4944d5ee2bc5",
+            "description": "CTNH.cs",
+            "action": "PREVENT_CONNECT"
+        }
 
     ]
 }
