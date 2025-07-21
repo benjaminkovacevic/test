@@ -152,9 +152,24 @@
         "path": "cleo",
         "allowedFiles": [
             {
-                "filename": "cleo.asi",
-                "hash": "A1B2C3",
-                "description": "Official CLEO"
+                "filename": "SensitivityFix.cs",
+                "hash": "1c89287924d904d5acf6383553962e736a4b3c11ae6763a233240fa09d9f2cfb",
+                "description": "SensitivityFix.cs"
+            },
+            {
+                "filename": "IntOperations.cleo",
+                "hash": "5897bcd19ac9097f3b730c091623c556a176c82af4f97e3a2c483f62f4819f4f",
+                "description": "IntOperations.cleo"
+            },
+            {
+                "filename": "IniFiles.cleo",
+                "hash": "d9ddde713211eb1341ec7181d0b2d7e487e8c816ced7afadee5d50ef3f37d168",
+                "description": "IniFiles.cleo"
+            },
+            {
+                "filename": "FileSystemOperations.cleo",
+                "hash": "b7b80bc1aad995e7643127a978dfb56bda7fe02ab54879327cfa7baca71bcddf",
+                "description": "FileSystemOperations.cleo"
             }
         ],
         "action": "PREVENT_CONNECT"
