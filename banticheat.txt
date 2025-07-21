@@ -19,10 +19,6 @@
             "action": "PREVENT_CONNECT"
         },
         {
-            "path": "CLEO.asi",
-            "action": "PREVENT_CONNECT"
-        },
-        {
             "path": "SilentAimbot.asi",
             "action": "PREVENT_CONNECT"
         },
@@ -48,10 +44,6 @@
         }
     ],
     "forbiddenDirectories": [
-        {
-            "path": "cleo",
-            "action": "PREVENT_CONNECT"
-        },
         {
             "path": "SAMPFUNCS",
             "action": "PREVENT_CONNECT"
