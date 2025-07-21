@@ -144,6 +144,11 @@
             "hash": "31ce3d433c7547d27c30d05bb2bf0d14e5a55261e928333cf44a4944d5ee2bc5",
             "description": "CTNH.cs",
             "action": "PREVENT_CONNECT"
+        },
+        {
+            "hash": "77817b885bac74bc08d378a9b711d83bd8c32fbd1abd634fc28c2c58f95e2502",
+            "description": "SprintHookByDarkP1xel.ASI",
+            "action": "PREVENT_CONNECT"
         }
 
     ],
