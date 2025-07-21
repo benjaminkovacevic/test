@@ -1,7 +1,7 @@
 {
-    "gtaRunning": false,
-    "sampRunning": false,
-    "monitorProcessesConstantly": false,
+    "gtaRunning": true,
+    "sampRunning": true,
+    "monitorProcessesConstantly": true,
     "validationFiles": [
         {
             "path": "gta_sa.exe",
