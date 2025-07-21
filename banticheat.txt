@@ -53,10 +53,6 @@
             "action": "PREVENT_CONNECT"
         },
         {
-            "path": "scripts",
-            "action": "PREVENT_CONNECT"
-        },
-        {
             "path": "CP_Multicheat",
             "action": "PREVENT_CONNECT"
         },
