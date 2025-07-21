@@ -146,5 +146,18 @@
             "action": "PREVENT_CONNECT"
         }
 
+    ],
+    "whitelistedDirectories": [
+    {
+        "path": "cleo",
+        "allowedFiles": [
+            {
+                "filename": "cleo.asi",
+                "hash": "A1B2C3",
+                "description": "Official CLEO"
+            }
+        ],
+        "action": "PREVENT_CONNECT"
+    }
     ]
 }
