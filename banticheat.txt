@@ -205,6 +205,11 @@
                 "filename": "FileSystemOperations.cleo",
                 "hash": "2cf06e8765375678d08061725fbe241a04c1182c2c91cc09ced8e7885336978b",
                 "description": "FileSystemOperations.cleo"
+            },
+            {
+                "filename": "FPS Counter.fxt",
+                "hash": "c950279badf08a4871d327f60d2a283a963732b6168636b85c2211cc67969fd0",
+                "description": "FPS Counter.fxt"
             }
         ],
         "action": "PREVENT_CONNECT"
