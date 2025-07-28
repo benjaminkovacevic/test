@@ -175,6 +175,36 @@
                 "filename": "FileSystemOperations.cleo",
                 "hash": "b7b80bc1aad995e7643127a978dfb56bda7fe02ab54879327cfa7baca71bcddf",
                 "description": "FileSystemOperations.cleo"
+            },
+            {
+                "filename": "Radar_Map_Color.ini",
+                "hash": "d54460379a624653255fcc562aa13bc0f179d18a83c029b116b31293dca39c29",
+                "description": "Radar_Map_Color.ini"
+            },
+            {
+                "filename": "Radar_Map_Color.cs",
+                "hash": "366f1e10301990e0dce77b246939dff451731730e64b8f9de55225b6d14b1b9c",
+                "description": "Radar_Map_Color.cs"
+            },
+            {
+                "filename": "IntOperations.cleo",
+                "hash": "0dcefd111cd17f9b32c0bbb3651baf352a046cad16b6097e5e1d74b61f53c14c",
+                "description": "IntOperations.cleo"
+            },
+            {
+                "filename": "IniFiles.cleo",
+                "hash": "019f00457c9f378cb2cb9e3abf87c6d849ab2e973d1c4be9ab579415574e9026",
+                "description": "IniFiles.cleo"
+            },
+            {
+                "filename": "FPS_Boost.cs",
+                "hash": "8c7f40bb90ac492758dd51863cbc6c46a9993160cd76e93c3e3de96abd02de35",
+                "description": "FPS_Boost.cs"
+            },
+            {
+                "filename": "FileSystemOperations.cleo",
+                "hash": "2cf06e8765375678d08061725fbe241a04c1182c2c91cc09ced8e7885336978b",
+                "description": "FileSystemOperations.cleo"
             }
         ],
         "action": "PREVENT_CONNECT"
