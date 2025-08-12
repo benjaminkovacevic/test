@@ -210,6 +210,21 @@
                 "filename": "FPS Counter.fxt",
                 "hash": "c950279badf08a4871d327f60d2a283a963732b6168636b85c2211cc67969fd0",
                 "description": "FPS Counter.fxt"
+            },
+            {
+                "filename": "fogdist.cs",
+                "hash": "ea3bf9d99834b1871835931da9fc22fd88c3f5a34dbf9d5804a8bafd089bee26",
+                "description": "fogdist.cs"
+            },
+            {
+                "filename": "SensitivityFix.cs",
+                "hash": "647a3c6b055994b10e89c9ee60c68cd61b165e71644c89c1fec4bd00c36d09b0",
+                "description": "SensitivityFix.cs"
+            },
+            {
+                "filename": "Sensitivity.ini",
+                "hash": "e085e932546c1677b6a40a017b75068e843c49f8e0ff3ec84e011e70e973773c",
+                "description": "Sensitivity.ini"
             }
         ],
         "action": "PREVENT_CONNECT"
