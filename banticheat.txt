@@ -149,6 +149,11 @@
             "hash": "77817b885bac74bc08d378a9b711d83bd8c32fbd1abd634fc28c2c58f95e2502",
             "description": "SprintHookByDarkP1xel.ASI",
             "action": "PREVENT_CONNECT"
+        },
+        {
+            "hash": "0b06ce8a7b5be7e24a60c73f437d0476a99ea30ebc220890516b6ba3978c2b7a",
+            "description": "SAIM.ASI",
+            "action": "PREVENT_CONNECT"
         }
 
     ],
