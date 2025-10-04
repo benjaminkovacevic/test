@@ -161,76 +161,31 @@
     {
         "path": "cleo",
         "allowedFiles": [
-            {
-                "filename": "SensitivityFix.cs",
-                "hash": "1c89287924d904d5acf6383553962e736a4b3c11ae6763a233240fa09d9f2cfb",
-                "description": "SensitivityFix.cs"
-            },
-            {
-                "filename": "IntOperations.cleo",
-                "hash": "5897bcd19ac9097f3b730c091623c556a176c82af4f97e3a2c483f62f4819f4f",
-                "description": "IntOperations.cleo"
-            },
-            {
-                "filename": "IniFiles.cleo",
-                "hash": "d9ddde713211eb1341ec7181d0b2d7e487e8c816ced7afadee5d50ef3f37d168",
-                "description": "IniFiles.cleo"
-            },
-            {
-                "filename": "FileSystemOperations.cleo",
-                "hash": "b7b80bc1aad995e7643127a978dfb56bda7fe02ab54879327cfa7baca71bcddf",
-                "description": "FileSystemOperations.cleo"
-            },
-            {
-                "filename": "Radar_Map_Color.ini",
-                "hash": "d54460379a624653255fcc562aa13bc0f179d18a83c029b116b31293dca39c29",
-                "description": "Radar_Map_Color.ini"
-            },
-            {
-                "filename": "Radar_Map_Color.cs",
-                "hash": "366f1e10301990e0dce77b246939dff451731730e64b8f9de55225b6d14b1b9c",
-                "description": "Radar_Map_Color.cs"
-            },
-            {
-                "filename": "IntOperations.cleo",
-                "hash": "0dcefd111cd17f9b32c0bbb3651baf352a046cad16b6097e5e1d74b61f53c14c",
-                "description": "IntOperations.cleo"
-            },
-            {
-                "filename": "IniFiles.cleo",
-                "hash": "019f00457c9f378cb2cb9e3abf87c6d849ab2e973d1c4be9ab579415574e9026",
-                "description": "IniFiles.cleo"
-            },
-            {
-                "filename": "FPS_Boost.cs",
-                "hash": "8c7f40bb90ac492758dd51863cbc6c46a9993160cd76e93c3e3de96abd02de35",
-                "description": "FPS_Boost.cs"
-            },
-            {
-                "filename": "FileSystemOperations.cleo",
-                "hash": "2cf06e8765375678d08061725fbe241a04c1182c2c91cc09ced8e7885336978b",
-                "description": "FileSystemOperations.cleo"
-            },
-            {
-                "filename": "FPS Counter.fxt",
-                "hash": "c950279badf08a4871d327f60d2a283a963732b6168636b85c2211cc67969fd0",
-                "description": "FPS Counter.fxt"
-            },
-            {
-                "filename": "fogdist.cs",
-                "hash": "ea3bf9d99834b1871835931da9fc22fd88c3f5a34dbf9d5804a8bafd089bee26",
-                "description": "fogdist.cs"
-            },
-            {
-                "filename": "SensitivityFix.cs",
-                "hash": "647a3c6b055994b10e89c9ee60c68cd61b165e71644c89c1fec4bd00c36d09b0",
-                "description": "SensitivityFix.cs"
-            },
-            {
-                "filename": "Sensitivity.ini",
-                "hash": "e085e932546c1677b6a40a017b75068e843c49f8e0ff3ec84e011e70e973773c",
-                "description": "Sensitivity.ini"
-            }
+            { "filename": "SensitivityFix.cs", "hash": "1c89287924d904d5acf6383553962e736a4b3c11ae6763a233240fa09d9f2cfb", "description": "SensitivityFix.cs" },
+            { "filename": "IntOperations.cleo", "hash": "5897bcd19ac9097f3b730c091623c556a176c82af4f97e3a2c483f62f4819f4f", "description": "IntOperations.cleo" },
+            { "filename": "IniFiles.cleo", "hash": "d9ddde713211eb1341ec7181d0b2d7e487e8c816ced7afadee5d50ef3f37d168", "description": "IniFiles.cleo" },
+            { "filename": "FileSystemOperations.cleo", "hash": "b7b80bc1aad995e7643127a978dfb56bda7fe02ab54879327cfa7baca71bcddf", "description": "FileSystemOperations.cleo" },
+            { "filename": "Radar_Map_Color.ini", "hash": "d54460379a624653255fcc562aa13bc0f179d18a83c029b116b31293dca39c29", "description": "Radar_Map_Color.ini" },
+            { "filename": "Radar_Map_Color.cs", "hash": "366f1e10301990e0dce77b246939dff451731730e64b8f9de55225b6d14b1b9c", "description": "Radar_Map_Color.cs" },
+            { "filename": "IntOperations.cleo", "hash": "0dcefd111cd17f9b32c0bbb3651baf352a046cad16b6097e5e1d74b61f53c14c", "description": "IntOperations.cleo" },
+            { "filename": "IniFiles.cleo", "hash": "019f00457c9f378cb2cb9e3abf87c6d849ab2e973d1c4be9ab579415574e9026", "description": "IniFiles.cleo" },
+            { "filename": "FPS_Boost.cs", "hash": "8c7f40bb90ac492758dd51863cbc6c46a9993160cd76e93c3e3de96abd02de35", "description": "FPS_Boost.cs" },
+            { "filename": "FileSystemOperations.cleo", "hash": "2cf06e8765375678d08061725fbe241a04c1182c2c91cc09ced8e7885336978b", "description": "FileSystemOperations.cleo" },
+            { "filename": "FPS Counter.fxt", "hash": "c950279badf08a4871d327f60d2a283a963732b6168636b85c2211cc67969fd0", "description": "FPS Counter.fxt" },
+            { "filename": "fogdist.cs", "hash": "ea3bf9d99834b1871835931da9fc22fd88c3f5a34dbf9d5804a8bafd089bee26", "description": "fogdist.cs" },
+            { "filename": "SensitivityFix.cs", "hash": "647a3c6b055994b10e89c9ee60c68cd61b165e71644c89c1fec4bd00c36d09b0", "description": "SensitivityFix.cs" },
+            { "filename": "Sensitivity.ini", "hash": "e085e932546c1677b6a40a017b75068e843c49f8e0ff3ec84e011e70e973773c", "description": "Sensitivity.ini" },
+            { "filename": "memory512.cs", "hash": "714841a3378e4e95d69f81fa6561b4a03a407f0a706af834be4ccad17c96e16f", "description": "memory512.cs" },
+            { "filename": "MemoryBoost.cs", "hash": "1b9b07a001eff2a58dac976691cc13794803c5ccee551488322c490d694f825b", "description": "MemoryBoost.cs" },
+            { "filename": "fastquit.cs", "hash": "6c9dd83f9a855fb9fd56b424de206ed625a7256b0617ffccba8aca7b4924386a", "description": "fastquit.cs" },
+            { "filename": "UltraFastConnect.cs", "hash": "449becbbd5252d58f72a1bc23a18cf5aa10a8b989feb7aa70f9e855a2f5e55e2", "description": "UltraFastConnect.cs" },
+            { "filename": "No_more_haze.cs", "hash": "40bf827fff42efe9d40388aa99a73842d228fb68aef2d804167b92e393ead6c4", "description": "No_more_haze.cs" },
+            { "filename": "fps_up.cs", "hash": "2d9b497b3b5ccbeefd4e91863bf7e499012f3056cbf9018f1afa5cd26da63b6a", "description": "fps_up.cs" },
+            { "filename": "Diverse_FPS_UP.cs", "hash": "dd3c8f8fd196ed421ae29ce3da9caaa49ca3dcf165b352742bb48bbd1ad094c0", "description": "Diverse_FPS_UP.cs" },
+            { "filename": "SensitivityFix.cs", "hash": "1c89287924d904d5acf6383553962e736a4b3c11ae6763a233240fa09d9f2cfb", "description": "SensitivityFix.cs" },
+            { "filename": "sensfix.ini", "hash": "cefe144e164130481c349eb7cce27e8bc2a61ff8ad9778ae01f23eadea7ab749", "description": "sensfix.ini" },
+            { "filename": "IntOperations.cleo", "hash": "651a2bcac36f8098453555773fe6c69b47b639b9ce34164caa10cc2abc134a4a", "description": "IntOperations.cleo" },
+            { "filename": "IniFiles.cleo", "hash": "cd8a78699852953bacb1af21f38e0140652c4e7c7661773e672c06ccd8cb41c9", "description": "IniFiles.cleo" }
         ],
         "action": "PREVENT_CONNECT"
     }
