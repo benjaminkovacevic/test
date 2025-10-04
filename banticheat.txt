@@ -16,7 +16,6 @@
         { "path": "enhancedaim.asi", "action": "PREVENT_CONNECT" }
     ],
     "forbiddenDirectories": [
-        { "path": "SAMPFUNCS", "action": "PREVENT_CONNECT" },
         { "path": "CP_Multicheat", "action": "PREVENT_CONNECT" },
         { "path": "Mini_Multi-Hack", "action": "PREVENT_CONNECT" },
         { "path": "HelloHaxk", "action": "PREVENT_CONNECT" },
@@ -79,13 +78,23 @@
             { "filename": "Remove 3D Gunflash (Junior_Djjr).cs", "hash": "91db76062c56c9aeb88a56b7656925a50030caf4b7b14459f548d3fee932dd29", "description": "Remove 3D Gunflash (Junior_Djjr).cs" }
         ],
         "action": "PREVENT_CONNECT"
-    },
-    {
-    "path": "moonloader",
-    "allowedFiles": [
-        
-    ],
-    "action": "PREVENT_CONNECT"
-}
+        },
+
+        {
+        "path": "moonloader",
+        "allowedFiles": [
+            { "filename": "Remove 3D Gunflash (Junior_Djjr).cs", "hash": "91db76062c56c9aeb88a56b7656925a50030caf4b7b14459f548d3fee932dd29", "description": "Remove 3D Gunflash (Junior_Djjr).cs" }
+        ],
+        "action": "PREVENT_CONNECT"
+        },
+
+        {
+        "path": "SAMPFUNCS",
+        "allowedFiles": [
+            { "filename": "Remove 3D Gunflash (Junior_Djjr).cs", "hash": "91db76062c56c9aeb88a56b7656925a50030caf4b7b14459f548d3fee932dd29", "description": "Remove 3D Gunflash (Junior_Djjr).cs" }
+        ],
+        "action": "PREVENT_CONNECT"
+        }
+
     ]
 }
