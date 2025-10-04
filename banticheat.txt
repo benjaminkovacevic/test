@@ -185,7 +185,8 @@
             { "filename": "SensitivityFix.cs", "hash": "1c89287924d904d5acf6383553962e736a4b3c11ae6763a233240fa09d9f2cfb", "description": "SensitivityFix.cs" },
             { "filename": "sensfix.ini", "hash": "cefe144e164130481c349eb7cce27e8bc2a61ff8ad9778ae01f23eadea7ab749", "description": "sensfix.ini" },
             { "filename": "IntOperations.cleo", "hash": "651a2bcac36f8098453555773fe6c69b47b639b9ce34164caa10cc2abc134a4a", "description": "IntOperations.cleo" },
-            { "filename": "IniFiles.cleo", "hash": "cd8a78699852953bacb1af21f38e0140652c4e7c7661773e672c06ccd8cb41c9", "description": "IniFiles.cleo" }
+            { "filename": "IniFiles.cleo", "hash": "cd8a78699852953bacb1af21f38e0140652c4e7c7661773e672c06ccd8cb41c9", "description": "IniFiles.cleo" },
+            { "filename": "Remove 3D Gunflash (Junior_Djjr).cs", "hash": "91db76062c56c9aeb88a56b7656925a50030caf4b7b14459f548d3fee932dd29", "description": "Remove 3D Gunflash (Junior_Djjr).cs" }
         ],
         "action": "PREVENT_CONNECT"
     }
