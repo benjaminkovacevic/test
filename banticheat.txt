@@ -72,7 +72,7 @@
         {
         "path": "moonloader",
         "allowedFiles": [
-            { "filename": "Remove 3D Gunflash (Junior_Djjr).cs", "hash": "91db76062c56c9aeb88a56b7656925a50030caf4b7b14459f548d3fee932dd29", "description": "Remove 3D Gunflash (Junior_Djjr).cs" }
+            { "filename": "", "hash": "", "description": "" }
         ],
         "action": "PREVENT_CONNECT"
         },
@@ -80,7 +80,7 @@
         {
         "path": "SAMPFUNCS",
         "allowedFiles": [
-            { "filename": "Remove 3D Gunflash (Junior_Djjr).cs", "hash": "91db76062c56c9aeb88a56b7656925a50030caf4b7b14459f548d3fee932dd29", "description": "Remove 3D Gunflash (Junior_Djjr).cs" }
+            { "filename": "", "hash": "", "description": "" }
         ],
         "action": "PREVENT_CONNECT"
         }
