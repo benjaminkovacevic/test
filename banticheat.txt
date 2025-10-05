@@ -108,6 +108,12 @@
         { "filename": "audio.asi", "hash": "49e26494cfd15aff5173a716336e04109b9684d4d5ba9b9e982e03ccf01b01b7", "description": "audio.asi" },
         { "filename": "SAMPFUNCS.asi", "hash": "cba1f7178f3fb2207440157ff577930ae0c69e85e838471864e82b0db62eeefb", "description": "SAMPFUNCS.asi" },
         { "filename": "clockweather.asi", "hash": "c1b7e2a3204708a1bf85d3f89c2b4860559034b5185f14964f86a7756a4f91aa", "description": "clockweather.asi" },
-        { "filename": "colormod.asi", "hash": "4fe39212c4e6d2d83158cb225b7abac685a451d832a8a3cd7949f007184534d2", "description": "colormod.asi" }
+        { "filename": "colormod.asi", "hash": "4fe39212c4e6d2d83158cb225b7abac685a451d832a8a3cd7949f007184534d2", "description": "colormod.asi" },
+        { "filename": "SensitivityFix.asi", "hash": "fa8a3c151986969653d84f84067e53df06d562e4815e5e618dc9c79ff7610be8", "description": "SensitivityFix.asi" },
+        { "filename": "mousefix.asi", "hash": "aa320c6e934cc1719fbc229c9eacd3bf61b32226d4b20225a3327fe12d6ad72e", "description": "mousefix.asi" },
+        { "filename": "radarrect.asi", "hash": "222ca093dbb376da68c51ff605e4c028a0d09f3e41be9391802761843bea4c69", "description": "radarrect.asi" },
+        { "filename": "fpsup.asi", "hash": "4c0d203d2841e96e3aa6f3929b647c7ba16965889e8e3e1583ea15a0a525fe72", "description": "fpsup.asi" },
+        { "filename": "Crosshairs.asi", "hash": "11c97666057496b840a9dc79b8ffa47a955ae7d788ae3110014a4560bfe196ae", "description": "Crosshairs.asi" },
+        { "filename": "fastloader.asi", "hash": "c4a148a83f7d5adc328ffda9ac49ddc83b438fee72db27ea08749c936eaa8e4a", "description": "fastloader.asi" }
     ]
 }
