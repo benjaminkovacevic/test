@@ -11,6 +11,7 @@
         { "path": "HelloHaxk", "action": "PREVENT_CONNECT" },
         { "path": "lev_m0ds", "action": "PREVENT_CONNECT" }
     ],
+    "forbiddenFiles": [],
     "forbiddenProcesses": [
         { "name": "cheatengine", "action": "PREVENT_CONNECT" },
         { "name": "samphack", "action": "PREVENT_CONNECT" },
