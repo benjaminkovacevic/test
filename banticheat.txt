@@ -89,19 +89,23 @@
     ],
     "whitelistedAsiFiles": [
         { "filename": "CLEO.asi", "hash": "748EA0B36A1580652146C8B443066BDD81EF14556431805B2102F0F1F44CAA08", "description": "CLEO.asi" },
+        { "filename": "cleo.asi", "hash": "b228adbf1d83b5151b62ef66e02010fc4f74ee0a86bf9ab20a1bba4ca13bde3b", "description": "cleo.asi" },
+
         { "filename": "crashes.asi", "hash": "ec29cbd8853f9ce8839704692b71b29076f374f30a18eee960288f6fddf95bbc", "description": "crashes.asi" },
         { "filename": "crashes.asi", "hash": "dadd053208af345cd7b38ed2dd22e33f1fa5dc17a11f0b5eece2705d76f04f6c", "description": "crashes.asi" },
+
         { "filename": "RefreshRateFixByDarkP1xel32.ASI", "hash": "836ef648b3b98cb6bafa116f15728746321f459898859add76f0f54b4e292497", "description": "RefreshRateFixByDarkP1xel32.ASI" },
-        { "filename": "modloader.asi", "hash": "9354beb050850fb4c5188e45241d0aa661b6994b9353064ff1ade90d7aa5fcd8", "description": "modloader.asi" },
-        { "filename": "SilentPatchSA.asi", "hash": "a4c27d738c6cfb88a8303f19174f2ca604938b26c489bc14045648545b60856c", "description": "SilentPatchSA.asi" },
         { "filename": "NoDustAndSandFxByDarkP1xel.ASI", "hash": "e99512b8d8d137c980724464274816adc592a48fbc04934b939d64eee1638ff8", "description": "NoDustAndSandFxByDarkP1xel.ASI" },
         { "filename": "MapZoomFixerByDarkP1xel.ASI", "hash": "2151c8a9c4e87b1eeb4e32b7b664a50d7eea67bc199c5b9cfa2e56dc61c8d9d5", "description": "MapZoomFixerByDarkP1xel.ASI" },
+
+        { "filename": "modloader.asi", "hash": "9354beb050850fb4c5188e45241d0aa661b6994b9353064ff1ade90d7aa5fcd8", "description": "modloader.asi" },
+        { "filename": "SilentPatchSA.asi", "hash": "a4c27d738c6cfb88a8303f19174f2ca604938b26c489bc14045648545b60856c", "description": "SilentPatchSA.asi" },
+
         { "filename": "SilentPatchSA.asi", "hash": "1da36a3b6e1f5091d9a039b8df5e7799a0662244972ada534af69c20dc368a37", "description": "SilentPatchSA.asi" },
         { "filename": "sensfix_XY.asi", "hash": "fa8a3c151986969653d84f84067e53df06d562e4815e5e618dc9c79ff7610be8", "description": "sensfix_XY.asi" },
         { "filename": "sensfix.asi", "hash": "44a28b79c6d701fadd69db1d6673888ba52481be3f78adf1a5937a1dde79ab79", "description": "sensfix.asi" },
         { "filename": "SE_MultiSamplingFix.asi", "hash": "23880ad357a14e7bb828c0991cc1dd9992ad63869850a69a4a46f38ce69f8da8", "description": "SE_MultiSamplingFix.asi" },
         { "filename": "audio.asi", "hash": "49e26494cfd15aff5173a716336e04109b9684d4d5ba9b9e982e03ccf01b01b7", "description": "audio.asi" },
-        { "filename": "cleo.asi", "hash": "b228adbf1d83b5151b62ef66e02010fc4f74ee0a86bf9ab20a1bba4ca13bde3b", "description": "cleo.asi" },
         { "filename": "SAMPFUNCS.asi", "hash": "cba1f7178f3fb2207440157ff577930ae0c69e85e838471864e82b0db62eeefb", "description": "SAMPFUNCS.asi" }
     ]
 }
