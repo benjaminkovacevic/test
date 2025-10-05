@@ -90,10 +90,10 @@
     "whitelistedAsiFiles": [
         { "filename": "CLEO.asi", "hash": "748EA0B36A1580652146C8B443066BDD81EF14556431805B2102F0F1F44CAA08", "description": "CLEO.asi" },
         { "filename": "crashes.asi", "hash": "ec29cbd8853f9ce8839704692b71b29076f374f30a18eee960288f6fddf95bbc", "description": "crashes.asi" },
+        { "filename": "crashes.asi", "hash": "dadd053208af345cd7b38ed2dd22e33f1fa5dc17a11f0b5eece2705d76f04f6c", "description": "crashes.asi" },
         { "filename": "RefreshRateFixByDarkP1xel32.ASI", "hash": "836ef648b3b98cb6bafa116f15728746321f459898859add76f0f54b4e292497", "description": "RefreshRateFixByDarkP1xel32.ASI" },
         { "filename": "modloader.asi", "hash": "9354beb050850fb4c5188e45241d0aa661b6994b9353064ff1ade90d7aa5fcd8", "description": "modloader.asi" },
         { "filename": "SilentPatchSA.asi", "hash": "a4c27d738c6cfb88a8303f19174f2ca604938b26c489bc14045648545b60856c", "description": "SilentPatchSA.asi" },
-        { "filename": "crashes.asi", "hash": "dadd053208af345cd7b38ed2dd22e33f1fa5dc17a11f0b5eece2705d76f04f6c", "description": "crashes.asi" },
         { "filename": "NoDustAndSandFxByDarkP1xel.ASI", "hash": "e99512b8d8d137c980724464274816adc592a48fbc04934b939d64eee1638ff8", "description": "NoDustAndSandFxByDarkP1xel.ASI" },
         { "filename": "MapZoomFixerByDarkP1xel.ASI", "hash": "2151c8a9c4e87b1eeb4e32b7b664a50d7eea67bc199c5b9cfa2e56dc61c8d9d5", "description": "MapZoomFixerByDarkP1xel.ASI" },
         { "filename": "SilentPatchSA.asi", "hash": "1da36a3b6e1f5091d9a039b8df5e7799a0662244972ada534af69c20dc368a37", "description": "SilentPatchSA.asi" },
