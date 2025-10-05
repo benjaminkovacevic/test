@@ -99,6 +99,7 @@
         { "filename": "SilentPatchSA.asi", "hash": "1da36a3b6e1f5091d9a039b8df5e7799a0662244972ada534af69c20dc368a37", "description": "SilentPatchSA.asi" },
         { "filename": "sensfix_XY.asi", "hash": "fa8a3c151986969653d84f84067e53df06d562e4815e5e618dc9c79ff7610be8", "description": "sensfix_XY.asi" },
         { "filename": "sensfix.asi", "hash": "44a28b79c6d701fadd69db1d6673888ba52481be3f78adf1a5937a1dde79ab79", "description": "sensfix.asi" },
-        { "filename": "SE_MultiSamplingFix.asi", "hash": "23880ad357a14e7bb828c0991cc1dd9992ad63869850a69a4a46f38ce69f8da8", "description": "SE_MultiSamplingFix.asi" }
+        { "filename": "SE_MultiSamplingFix.asi", "hash": "23880ad357a14e7bb828c0991cc1dd9992ad63869850a69a4a46f38ce69f8da8", "description": "SE_MultiSamplingFix.asi" },
+        { "filename": "audio.asi", "hash": "49e26494cfd15aff5173a716336e04109b9684d4d5ba9b9e982e03ccf01b01b7", "description": "audio.asi" }
     ]
 }
