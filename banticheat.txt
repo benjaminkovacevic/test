@@ -71,14 +71,18 @@
         {
             "path": "moonloader",
             "allowedFiles": [
-                { "filename": "", "hash": "", "description": "" }
+                { "filename": "FPSOptimizer.lua", "hash": "452564e70ff010f424754dbedd54e19d86ec34f25dfc54bf352d1206245e7546", "description": "FPSOptimizer.lua" },
+                { "filename": "GameFixer.lua", "hash": "bfb044ee8d060f5de2c9f91433294bcd59e7a1da4dd4cac9ebb06b9461733e88", "description": "GameFixer.lua" }
             ],
             "action": "PREVENT_CONNECT"
         },
         {
             "path": "SAMPFUNCS",
             "allowedFiles": [
-                { "filename": "", "hash": "", "description": "" }
+                { "filename": "sampfuncs-settings.ini", "hash": "3aadd19300061f90bfd0ab7bec70ede051330f9ed2e2d842bd51d7c25ea22544", "description": "sampfuncs-settings.ini" },
+                { "filename": "SAMPFUNCS.log", "hash": "078be17430e18aba9005021c839de64e9ca71ea77356e7336751c5afd36e6f70", "description": "SAMPFUNCS.log" },
+                { "filename": "pricelsize.ini", "hash": "cfd88654f64a181b771f495f82211ff37cc4ae03448aa0e0db104e7473596483", "description": "pricelsize.ini" },
+                { "filename": "Pricel.sf", "hash": "c710d1f3cc856a91cea9999a342f52ef6bd34b31c0a499a8aa530d473d9a797f", "description": "Pricel.sf" }
             ],
             "action": "PREVENT_CONNECT"
         }
