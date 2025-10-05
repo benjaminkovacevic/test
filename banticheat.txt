@@ -90,9 +90,9 @@
             "description": "CLEO.asi"
         },
         {
-            "filename": "anotherplugin.asi",
-            "hash": "11223344556677889900AABBCCDDEEFF11223344556677889900AABBCCDDEEFF",
-            "description": "Another Plugin"
+            "filename": "crashes.asi",
+            "hash": "ec29cbd8853f9ce8839704692b71b29076f374f30a18eee960288f6fddf95bbc",
+            "description": "crashes.asi"
         }
     ]
 }
