@@ -85,9 +85,9 @@
     ],
     "whitelistedAsiFiles": [
         {
-            "filename": "modloader.asi",
-            "hash": "AABBCCDDEEFF00112233445566778899AABBCCDDEEFF00112233445566778899",
-            "description": "Mod Loader"
+            "filename": "CLEO.asi",
+            "hash": "748ea0b36a1580652146c8b443066bdd81ef14556431805b2102f0f1f44caa08",
+            "description": "CLEO.asi"
         },
         {
             "filename": "anotherplugin.asi",
