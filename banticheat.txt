@@ -86,7 +86,7 @@
     "whitelistedAsiFiles": [
         {
             "filename": "CLEO.asi",
-            "hash": "748ea0b36a1580652146c8b443066bdd81ef14556431805b2102f0f1f44caa08",
+            "hash": "748EA0B36A1580652146C8B443066BDD81EF14556431805B2102F0F1F44CAA08",
             "description": "CLEO.asi"
         },
         {
