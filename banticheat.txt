@@ -120,6 +120,6 @@
         { "filename": "audio.asi", "hash": "aa4cf79f5600e9aa66790536f20c36acc7d667fc34093619a5787303b100e491", "description": "audio.asi" },
         { "filename": "booster.asi", "hash": "4c0d203d2841e96e3aa6f3929b647c7ba16965889e8e3e1583ea15a0a525fe72", "description": "booster.asi" },
         { "filename": "Chat.asi", "hash": "d7e2b4d5b0a128ac1b7291b0b56f28a80fd6ac3e4780ffaeaf87975948647e23", "description": "Chat.asi" },
-        { "filename": "test", "hash": "adsadsdsadsadsa", "description": "test" }
+        { "filename": "cleo.asi", "hash": "cd398fdb1166f24b1145796492e131dcb3937b0060c372aaec0d49b12282734f", "description": "cleo.asi" }
     ]
 }  
