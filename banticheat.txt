@@ -121,6 +121,20 @@
         { "filename": "audio.asi", "hash": "aa4cf79f5600e9aa66790536f20c36acc7d667fc34093619a5787303b100e491", "description": "audio.asi" },
         { "filename": "booster.asi", "hash": "4c0d203d2841e96e3aa6f3929b647c7ba16965889e8e3e1583ea15a0a525fe72", "description": "booster.asi" },
         { "filename": "Chat.asi", "hash": "d7e2b4d5b0a128ac1b7291b0b56f28a80fd6ac3e4780ffaeaf87975948647e23", "description": "Chat.asi" },
-        { "filename": "clockweatherset.asi", "hash": "d96b4b919f8cd96e8e426a05bd5fe7873516af7d337ed3da2a5d0b9401cd6416", "description": "clockweatherset.asi" }
+        { "filename": "clockweatherset.asi", "hash": "d96b4b919f8cd96e8e426a05bd5fe7873516af7d337ed3da2a5d0b9401cd6416", "description": "clockweatherset.asi" },
+        { "filename": "SilentPatchSA.asi", "hash": "99eca5a558af61ca6f28eb3fdc599162d26384e36379210fa7d2e8b2a0120701", "description": "SilentPatchSA.asi" },
+        { "filename": "StreamMemFix2.2.asi", "hash": "9197acee833019a8831875dd5e4876883e312921b00a37815d6777c5be481e67", "description": "StreamMemFix2.2.asi" },
+        { "filename": "booster.asi", "hash": "4c0d203d2841e96e3aa6f3929b647c7ba16965889e8e3e1583ea15a0a525fe72", "description": "booster.asi" },
+        { "filename": "fix.black_roads.asi", "hash": "9e53a29fb6b6e35c44887e8d035ca8725d6f2f7a978bfbfdfdcef4220a142c18", "description": "fix.black_roads.asi" },
+        { "filename": "DeleteWhiteCrosshairDot.asi", "hash": "252335f1dcbc20e334e7c66e06ab0d4c912e5f8ba6171f951a336e187cc83208", "description": "DeleteWhiteCrosshairDot.asi" },
+        { "filename": "GraphicsTweaker.SA.asi", "hash": "112850ab36e0a2afae1c450a5b7ef634920cdc107c23109f3a6c087a3c255c53", "description": "GraphicsTweaker.SA.asi" },
+        { "filename": "modloader.asi", "hash": "9354beb050850fb4c5188e45241d0aa661b6994b9353064ff1ade90d7aa5fcd8", "description": "modloader.asi" },
+        { "filename": "NoPauseDelayByDarkP1xel.ASI", "hash": "887becc759aefbcd4c6fcd3bdd293e035de71e511431d4f1889439e51051107c", "description": "NoPauseDelayByDarkP1xel.ASI" },
+        { "filename": "NormalMapFix.asi", "hash": "0123cbe205888fc183142ce722638c9c01afc61c3e8a6e820bde04288bec2d8b", "description": "NormalMapFix.asi" },
+        { "filename": "ped_spec.asi", "hash": "c744e59ae92f4d3418d1a4bba0764836d23e4fe01e0c83c7f48df32b9c9c6631", "description": "ped_spec.asi" },
+        { "filename": "PingAmplifier.asi", "hash": "08088c721d822555868166f5cfbb0b473e09e680e4bb897567594ccaf404b2ad", "description": "PingAmplifier.asi" },
+        { "filename": "samp-discord-plugin.asi", "hash": "3313efbf4ce5bfff24df2da49005262b29971776a70ec736d5572e1743fb08b3", "description": "samp-discord-plugin.asi" },
+        { "filename": "sensinifix.asi", "hash": "44a28b79c6d701fadd69db1d6673888ba52481be3f78adf1a5937a1dde79ab79", "description": "sensinifix.asi" },
+        { "filename": "ShellFix.asi", "hash": "b2d59a6e7a86be6161cabbafeef686f7a52025aa55aec3737464e14317c77a47", "description": "ShellFix.asi" }
     ]
 }  
