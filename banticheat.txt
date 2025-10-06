@@ -135,6 +135,11 @@
         { "filename": "PingAmplifier.asi", "hash": "08088c721d822555868166f5cfbb0b473e09e680e4bb897567594ccaf404b2ad", "description": "PingAmplifier.asi" },
         { "filename": "samp-discord-plugin.asi", "hash": "3313efbf4ce5bfff24df2da49005262b29971776a70ec736d5572e1743fb08b3", "description": "samp-discord-plugin.asi" },
         { "filename": "sensinifix.asi", "hash": "44a28b79c6d701fadd69db1d6673888ba52481be3f78adf1a5937a1dde79ab79", "description": "sensinifix.asi" },
-        { "filename": "ShellFix.asi", "hash": "b2d59a6e7a86be6161cabbafeef686f7a52025aa55aec3737464e14317c77a47", "description": "ShellFix.asi" }
+        { "filename": "ShellFix.asi", "hash": "b2d59a6e7a86be6161cabbafeef686f7a52025aa55aec3737464e14317c77a47", "description": "ShellFix.asi" },
+        { "filename": "OutFitFix.asi", "hash": "9afb7c9db7c1db7018e5ca1fa68971183ace8b4ffedf9354adc6a2e45a40c8a0", "description": "OutFitFix.asi" },
+        { "filename": "StreamMemFix.asi", "hash": "f91694b032b19c449323c04e8832d607016861ded19e40a1d69bf07ab72e74b4", "description": "StreamMemFix.asi" },
+        { "filename": "SAMPGraphicRestore.asi", "hash": "65e59e56389bf1baf10b8d0a59e0e68bee2490fd31d622291e3f40fa18cb96a7", "description": "SAMPGraphicRestore.asi" },
+        { "filename": "samp.asi", "hash": "1981f8a329861406694340915e4dc45cdfc50f672b97bcca9c55d01556c1ef62", "description": "samp.asi" }
+
     ]
 }  
