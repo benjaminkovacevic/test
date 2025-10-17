@@ -140,7 +140,11 @@
         { "filename": "OutFitFix.asi", "hash": "9afb7c9db7c1db7018e5ca1fa68971183ace8b4ffedf9354adc6a2e45a40c8a0", "description": "OutFitFix.asi" },
         { "filename": "StreamMemFix.asi", "hash": "f91694b032b19c449323c04e8832d607016861ded19e40a1d69bf07ab72e74b4", "description": "StreamMemFix.asi" },
         { "filename": "SAMPGraphicRestore.asi", "hash": "65e59e56389bf1baf10b8d0a59e0e68bee2490fd31d622291e3f40fa18cb96a7", "description": "SAMPGraphicRestore.asi" },
-        { "filename": "samp.asi", "hash": "1981f8a329861406694340915e4dc45cdfc50f672b97bcca9c55d01556c1ef62", "description": "samp.asi" }
-
+        { "filename": "samp.asi", "hash": "1981f8a329861406694340915e4dc45cdfc50f672b97bcca9c55d01556c1ef62", "description": "samp.asi" },
+        { "filename": "modloader.asi", "hash": "e220c103b1d061b0a136c3bc06bfa3e8530a651b9995aa3b6448db9db83a0e65", "description": "modloader.asi" },
+        { "filename": "FramerateVigilante.SA.asi", "hash": "39b79c0e7ac1df0dd6ba981f426d1964ba31f3034d975cd61191ce1bac9f3f11", "description": "FramerateVigilante.SA.asi" },
+        { "filename": "Y-Axis_Sensitivity_Fix.asi", "hash": "fa8a3c151986969653d84f84067e53df06d562e4815e5e618dc9c79ff7610be8", "description": "Y-Axis_Sensitivity_Fix.asi" },
+        { "filename": "sensfix.asi", "hash": "44a28b79c6d701fadd69db1d6673888ba52481be3f78adf1a5937a1dde79ab79", "description": "sensfix.asi" },
+        { "filename": "SAMPFUNCS.asi", "hash": "498f5cefe33f01cb27918a5374ba5ca88bce18cdd8409d3555574892c5c4eec4", "description": "SAMPFUNCS.asi" }
     ]
 }  
