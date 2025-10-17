@@ -65,7 +65,12 @@
                 { "filename": "sensfix.ini", "hash": "cefe144e164130481c349eb7cce27e8bc2a61ff8ad9778ae01f23eadea7ab749", "description": "sensfix.ini" },
                 { "filename": "IntOperations.cleo", "hash": "651a2bcac36f8098453555773fe6c69b47b639b9ce34164caa10cc2abc134a4a", "description": "IntOperations.cleo" },
                 { "filename": "IniFiles.cleo", "hash": "cd8a78699852953bacb1af21f38e0140652c4e7c7661773e672c06ccd8cb41c9", "description": "IniFiles.cleo" },
-                { "filename": "Remove 3D Gunflash (Junior_Djjr).cs", "hash": "91db76062c56c9aeb88a56b7656925a50030caf4b7b14459f548d3fee932dd29", "description": "Remove 3D Gunflash (Junior_Djjr).cs" }
+                { "filename": "Remove 3D Gunflash (Junior_Djjr).cs", "hash": "91db76062c56c9aeb88a56b7656925a50030caf4b7b14459f548d3fee932dd29", "description": "Remove 3D Gunflash (Junior_Djjr).cs" },
+                { "filename": "Anticrasher.cs", "hash": "f623ecbbac0e0220b4b10c2edeb29b7b8bb6e374da3414c1c1f46feed22f52ab", "description": "Anticrasher.cs" },
+                { "filename": "CScriptEngine.cs", "hash": "28cd36ac3cd73e3ba9bb3e2e97988a1429d2a12fa673893be473ee5448b2e1e2", "description": "CScriptEngine.cs" },
+                { "filename": "IniFiles.cleo", "hash": "019f00457c9f378cb2cb9e3abf87c6d849ab2e973d1c4be9ab579415574e9026", "description": "IniFiles.cleo" },
+                { "filename": "IntOperations.cleo", "hash": "0dcefd111cd17f9b32c0bbb3651baf352a046cad16b6097e5e1d74b61f53c14c", "description": "IntOperations.cleo" },
+                { "filename": "sniperfix.cs", "hash": "6a64c0762e65f0c32d2e290099b48f76a57098c5c259b2f294aeef60eba36219", "description": "sniperfix.cs" }
             ],
             "action": "PREVENT_CONNECT"
         },
