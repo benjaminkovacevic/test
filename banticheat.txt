@@ -145,6 +145,8 @@
         { "filename": "FramerateVigilante.SA.asi", "hash": "39b79c0e7ac1df0dd6ba981f426d1964ba31f3034d975cd61191ce1bac9f3f11", "description": "FramerateVigilante.SA.asi" },
         { "filename": "Y-Axis_Sensitivity_Fix.asi", "hash": "fa8a3c151986969653d84f84067e53df06d562e4815e5e618dc9c79ff7610be8", "description": "Y-Axis_Sensitivity_Fix.asi" },
         { "filename": "sensfix.asi", "hash": "44a28b79c6d701fadd69db1d6673888ba52481be3f78adf1a5937a1dde79ab79", "description": "sensfix.asi" },
-        { "filename": "SAMPFUNCS.asi", "hash": "498f5cefe33f01cb27918a5374ba5ca88bce18cdd8409d3555574892c5c4eec4", "description": "SAMPFUNCS.asi" }
+        { "filename": "SAMPFUNCS.asi", "hash": "498f5cefe33f01cb27918a5374ba5ca88bce18cdd8409d3555574892c5c4eec4", "description": "SAMPFUNCS.asi" },
+        { "filename": "CLEO.asi", "hash": "cd398fdb1166f24b1145796492e131dcb3937b0060c372aaec0d49b12282734f", "description": "CLEO.asi" },
+        { "filename": "crashes.asi", "hash": "2d60eaab590a62220034aeaf5416b1028494958a97e7d06ca8b3a266cbb22337", "description": "crashes.asi" }
     ]
 }  
