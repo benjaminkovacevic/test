@@ -70,7 +70,16 @@
                 { "filename": "CScriptEngine.cs", "hash": "28cd36ac3cd73e3ba9bb3e2e97988a1429d2a12fa673893be473ee5448b2e1e2", "description": "CScriptEngine.cs" },
                 { "filename": "IniFiles.cleo", "hash": "019f00457c9f378cb2cb9e3abf87c6d849ab2e973d1c4be9ab579415574e9026", "description": "IniFiles.cleo" },
                 { "filename": "IntOperations.cleo", "hash": "0dcefd111cd17f9b32c0bbb3651baf352a046cad16b6097e5e1d74b61f53c14c", "description": "IntOperations.cleo" },
-                { "filename": "sniperfix.cs", "hash": "6a64c0762e65f0c32d2e290099b48f76a57098c5c259b2f294aeef60eba36219", "description": "sniperfix.cs" }
+                { "filename": "sniperfix.cs", "hash": "6a64c0762e65f0c32d2e290099b48f76a57098c5c259b2f294aeef60eba36219", "description": "sniperfix.cs" },
+                { "filename": "SW", "hash": "dd0ba43a4b454069f874a8359fbda675ef6b6588ed35af0b343255685e12b620", "description": "SW - 27 bytes" },
+                { "filename": "fogdist.ini", "hash": "3800d4421cbfee9e2ea9b019808db6f46bc72bd42161993f582597f255e3a28a", "description": "fogdist.ini - 29 bytes" },
+                { "filename": "IntOperations.cleo", "hash": "0dcefd111cd17f9b32c0bbb3651baf352a046cad16b6097e5e1d74b61f53c14c", "description": "IntOperations.cleo - 2560 bytes" },
+                { "filename": "IniFiles.cleo", "hash": "019f00457c9f378cb2cb9e3abf87c6d849ab2e973d1c4be9ab579415574e9026", "description": "IniFiles.cleo - 4608 bytes" },
+                { "filename": "FileSystemOperations.cleo", "hash": "29a802d73aba522f63c036d13d5c872edb6c445a1b6d6e7fa957b37ce8f5edbc", "description": "FileSystemOperations.cleo - 65024 bytes" },
+                { "filename": "sw.cs", "hash": "d0ddf845c3d44f0c477f038f87a5bcb92dc53c7403f55d929ad1a25f09e06740", "description": "sw.cs - 18861 bytes" },
+                { "filename": "Reconnect.cs", "hash": "b71a102c71f6e0db49fc985d3c79613420fcd26c9838138b14a00b239991206a", "description": "Reconnect.cs - 18864 bytes" },
+                { "filename": "Reconnect v3.5 by Dapo Show.cs", "hash": "03fc9c3c00717f4a82f3d7df4433525f0d1da5253b2ef5bf47d353651996cab9", "description": "Reconnect v3.5 by Dapo Show.cs - 9694 bytes" },
+                { "filename": "Car_Speed_FPS_Fix.cs", "hash": "2142d05d509e926feebe48fb8403fdbccf5e7d0f62ce668d2e2dce24610faf16", "description": "Car_Speed_FPS_Fix.cs - 6973 bytes" }
             ],
             "action": "PREVENT_CONNECT"
         },
@@ -152,6 +161,21 @@
         { "filename": "sensfix.asi", "hash": "44a28b79c6d701fadd69db1d6673888ba52481be3f78adf1a5937a1dde79ab79", "description": "sensfix.asi" },
         { "filename": "SAMPFUNCS.asi", "hash": "498f5cefe33f01cb27918a5374ba5ca88bce18cdd8409d3555574892c5c4eec4", "description": "SAMPFUNCS.asi" },
         { "filename": "CLEO.asi", "hash": "cd398fdb1166f24b1145796492e131dcb3937b0060c372aaec0d49b12282734f", "description": "CLEO.asi" },
-        { "filename": "crashes.asi", "hash": "2d60eaab590a62220034aeaf5416b1028494958a97e7d06ca8b3a266cbb22337", "description": "crashes.asi" }
+        { "filename": "crashes.asi", "hash": "2d60eaab590a62220034aeaf5416b1028494958a97e7d06ca8b3a266cbb22337", "description": "crashes.asi" },
+        { "filename": "crashes.asi", "hash": "dadd053208af345cd7b38ed2dd22e33f1fa5dc17a11f0b5eece2705d76f04f6c", "description": "crashes.asi" },
+        { "filename": "CLEO.asi", "hash": "cd398fdb1166f24b1145796492e131dcb3937b0060c372aaec0d49b12282734f", "description": "CLEO.asi" },
+        { "filename": "Crosshairs.asi", "hash": "11c97666057496b840a9dc79b8ffa47a955ae7d788ae3110014a4560bfe196ae", "description": "Crosshairs.asi" },
+        { "filename": "FpsLimitBlade.asi", "hash": "24200c07620474dbd4fbb5b1ed048ae003232fbe83139c56b596a9b8a52fda56", "description": "FpsLimitBlade.asi" },
+        { "filename": "CheckOnline.asi", "hash": "59d0e81a15adc206eab8302e5a3ec94d1048bfeaee5e2dc5e5923aec73a2607d", "description": "CheckOnline.asi" },
+        { "filename": "cacmods.asi", "hash": "cd4bed33f67a8cbc8bb12b8743aa224cf7d39d14493f6b06edd714e2f790023a", "description": "cacmods.asi" },
+        { "filename": "modloader.asi", "hash": "9354beb050850fb4c5188e45241d0aa661b6994b9353064ff1ade90d7aa5fcd8", "description": "modloader.asi" },
+        { "filename": "MoonLoader.asi", "hash": "33fcd4256b17c3cc52c96404b04728c71a5f07e914f21aa42a64674d21731a85", "description": "MoonLoader.asi" },
+        { "filename": "WindowModeAltFixByCake.asi", "hash": "a4e1bccc05143e055180237d536985263b2f1e9e49aad4ffd05e721a7c9db6d8", "description": "WindowModeAltFixByCake.asi" },
+        { "filename": "Y-Axis_Sensitivity_Fix_gta3vcsa.asi", "hash": "2399b55f0316898ac875180f61dab5f679b5da6002bf8dc68d724d6bd456d955", "description": "Y-Axis_Sensitivity_Fix_gta3vcsa.asi" },
+        { "filename": "SE_MultiSamplingFix.asi", "hash": "23880ad357a14e7bb828c0991cc1dd9992ad63869850a69a4a46f38ce69f8da8", "description": "SE_MultiSamplingFix.asi" },
+        { "filename": "SE_FixTextures.asi", "hash": "9197acee833019a8831875dd5e4876883e312921b00a37815d6777c5be481e67", "description": "SE_FixTextures.asi" },
+        { "filename": "sensfix.asi", "hash": "44a28b79c6d701fadd69db1d6673888ba52481be3f78adf1a5937a1dde79ab79", "description": "sensfix.asi" },
+        { "filename": "ps2shads.asi", "hash": "2404485b2145b51d48170b44f0a484711d0dcb49b40fb4a3bfe8154225485461", "description": "ps2shads.asi" },
+        { "filename": "NoDustAndSandFxByDarkP1xel.asi", "hash": "1cd60d7120423b53c87d80420cc8551286da4610bd125f6244f3447f635ad489", "description": "NoDustAndSandFxByDarkP1xel.asi" }
     ]
 }  
