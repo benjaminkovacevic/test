@@ -79,7 +79,8 @@
                 { "filename": "sw.cs", "hash": "d0ddf845c3d44f0c477f038f87a5bcb92dc53c7403f55d929ad1a25f09e06740", "description": "sw.cs - 18861 bytes" },
                 { "filename": "Reconnect.cs", "hash": "b71a102c71f6e0db49fc985d3c79613420fcd26c9838138b14a00b239991206a", "description": "Reconnect.cs - 18864 bytes" },
                 { "filename": "Reconnect v3.5 by Dapo Show.cs", "hash": "03fc9c3c00717f4a82f3d7df4433525f0d1da5253b2ef5bf47d353651996cab9", "description": "Reconnect v3.5 by Dapo Show.cs - 9694 bytes" },
-                { "filename": "Car_Speed_FPS_Fix.cs", "hash": "2142d05d509e926feebe48fb8403fdbccf5e7d0f62ce668d2e2dce24610faf16", "description": "Car_Speed_FPS_Fix.cs - 6973 bytes" }
+                { "filename": "Car_Speed_FPS_Fix.cs", "hash": "2142d05d509e926feebe48fb8403fdbccf5e7d0f62ce668d2e2dce24610faf16", "description": "Car_Speed_FPS_Fix.cs - 6973 bytes" },
+                { "filename": "Settings.ini", "hash": "c3ead7a22985f28b54b905f962243d35", "description": "Settings.ini - 36 bytes" }
             ],
             "action": "PREVENT_CONNECT"
         },
