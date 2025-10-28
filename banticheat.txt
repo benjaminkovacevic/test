@@ -71,6 +71,7 @@
                 { "filename": "IniFiles.cleo", "hash": "019f00457c9f378cb2cb9e3abf87c6d849ab2e973d1c4be9ab579415574e9026", "description": "IniFiles.cleo" },
                 { "filename": "IntOperations.cleo", "hash": "0dcefd111cd17f9b32c0bbb3651baf352a046cad16b6097e5e1d74b61f53c14c", "description": "IntOperations.cleo" },
                 { "filename": "sniperfix.cs", "hash": "6a64c0762e65f0c32d2e290099b48f76a57098c5c259b2f294aeef60eba36219", "description": "sniperfix.cs" },
+                { "filename": "Reconnect_by_Dapo_Show.ini", "hash": "6f4050ff8831c039c96d02d018b8392dc92ca6306d13085ce69f3ee27e4cd6f9", "description": "Reconnect_by_Dapo_Show.ini - 20 bytes" },
                 { "filename": "SW", "hash": "dd0ba43a4b454069f874a8359fbda675ef6b6588ed35af0b343255685e12b620", "description": "SW - 27 bytes" },
                 { "filename": "fogdist.ini", "hash": "3800d4421cbfee9e2ea9b019808db6f46bc72bd42161993f582597f255e3a28a", "description": "fogdist.ini - 29 bytes" },
                 { "filename": "IntOperations.cleo", "hash": "0dcefd111cd17f9b32c0bbb3651baf352a046cad16b6097e5e1d74b61f53c14c", "description": "IntOperations.cleo - 2560 bytes" },
@@ -80,7 +81,9 @@
                 { "filename": "Reconnect.cs", "hash": "b71a102c71f6e0db49fc985d3c79613420fcd26c9838138b14a00b239991206a", "description": "Reconnect.cs - 18864 bytes" },
                 { "filename": "Reconnect v3.5 by Dapo Show.cs", "hash": "03fc9c3c00717f4a82f3d7df4433525f0d1da5253b2ef5bf47d353651996cab9", "description": "Reconnect v3.5 by Dapo Show.cs - 9694 bytes" },
                 { "filename": "Car_Speed_FPS_Fix.cs", "hash": "2142d05d509e926feebe48fb8403fdbccf5e7d0f62ce668d2e2dce24610faf16", "description": "Car_Speed_FPS_Fix.cs - 6973 bytes" },
-                { "filename": "Settings.ini", "hash": "c3ead7a22985f28b54b905f962243d35", "description": "Settings.ini - 36 bytes" }
+                { "filename": "Settings.ini", "hash": "c3ead7a22985f28b54b905f962243d35", "description": "Settings.ini - 36 bytes" },
+                { "filename": "Reconnect_by_Dapo_Show.ini", "hash": "6f4050ff8831c039c96d02d018b8392dc92ca6306d13085ce69f3ee27e4cd6f9", "description": "Reconnect_by_Dapo_Show.ini - 20 bytes" },
+                { "filename": "SensitivityFix.cs", "hash": "c59ebdfcd320d626d18163ae5f29feab5f31b85dacb5d95562acfd63fa6a73da", "description": "SensitivityFix.cs - 12267 bytes" }
             ],
             "action": "PREVENT_CONNECT"
         },
