@@ -175,7 +175,16 @@
     { "filename": "UncapFPS_UGBASEEU.asi", "hash": "9362c32d33374a18261f194c2a9eab69c4d465ecd20bc8b601d246e501858038", "description": "UncapFPS_UGBASEEU.asi" },
     { "filename": "WindowModeAltFixByCake.asi", "hash": "a4e1bccc05143e055180237d536985263b2f1e9e49aad4ffd05e721a7c9db6d8", "description": "WindowModeAltFixByCake.asi" },
     { "filename": "Y-Axis_Sensitivity_Fix.asi", "hash": "fa8a3c151986969653d84f84067e53df06d562e4815e5e618dc9c79ff7610be8", "description": "Y-Axis_Sensitivity_Fix.asi" },
-    { "filename": "Y-Axis_Sensitivity_Fix_gta3vcsa.asi", "hash": "2399b55f0316898ac875180f61dab5f679b5da6002bf8dc68d724d6bd456d955", "description": "Y-Axis_Sensitivity_Fix_gta3vcsa.asi" }
+    { "filename": "Y-Axis_Sensitivity_Fix_gta3vcsa.asi", "hash": "2399b55f0316898ac875180f61dab5f679b5da6002bf8dc68d724d6bd456d955", "description": "Y-Axis_Sensitivity_Fix_gta3vcsa.asi" },
+    { "filename": "sensfix.asi", "hash": "44a28b79c6d701fadd69db1d6673888ba52481be3f78adf1a5937a1dde79ab79", "description": "sensfix.asi" },
+    { "filename": "SAMPFUNCS.asi", "hash": "cba1f7178f3fb2207440157ff577930ae0c69e85e838471864e82b0db62eeefb", "description": "SAMPFUNCS.asi" },
+    { "filename": "RefreshRateFixByDarkP1xel32.ASI", "hash": "836ef648b3b98cb6bafa116f15728746321f459898859add76f0f54b4e292497", "description": "RefreshRateFixByDarkP1xel32.ASI" },
+    { "filename": "MoonLoader.asi", "hash": "33fcd4256b17c3cc52c96404b04728c71a5f07e914f21aa42a64674d21731a85", "description": "MoonLoader.asi" },
+    { "filename": "modloader.asi", "hash": "9354beb050850fb4c5188e45241d0aa661b6994b9353064ff1ade90d7aa5fcd8", "description": "modloader.asi" },
+    { "filename": "custom_name_tags.asi", "hash": "1d814f82fd8843ae9fb60615acfe696d02f3bd03685a231c9447d10ec42d3ba7", "description": "custom_name_tags.asi" },
+    { "filename": "crashes.asi", "hash": "2d60eaab590a62220034aeaf5416b1028494958a97e7d06ca8b3a266cbb22337", "description": "crashes.asi (243200 bytes)" },
+    { "filename": "CLEO.asi", "hash": "cd398fdb1166f24b1145796492e131dcb3937b0060c372aaec0d49b12282734f", "description": "CLEO.asi" },
+    { "filename": "booster.asi", "hash": "4c0d203d2841e96e3aa6f3929b647c7ba16965889e8e3e1583ea15a0a525fe72", "description": "booster.asi" }
     ]
 
 }  
